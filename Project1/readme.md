@@ -16,7 +16,10 @@ Samples total  | 506
 Dimensionality | 13
 Features       | real, positive
 Targets        | real 5. - 50.
-	
+
+My [Code](https://github.com/alisharifi2000/Machine-learning-course-sbu/blob/master/Project1/linear_regression.ipynb) in Jupyter NoteBook.
+
+My [Report](https://github.com/alisharifi2000/Machine-learning-course-sbu/blob/master/Project1/housing.pdf) in Persian.
 
 #### 2.Admission dataset :
 [Kaggle](https://www.kaggle.com/mohansacharya/graduate-admissions)
@@ -29,3 +32,7 @@ Samples total  | 500
 Dimensionality | 9
 Features       | real, positive
 Targets        | real 0. - 1.
+
+My [Code](https://github.com/alisharifi2000/Machine-learning-course-sbu/blob/master/Project1/linear_regression1.ipynb) in Jupyter NoteBook.
+
+My [Report](https://github.com/alisharifi2000/Machine-learning-course-sbu/blob/master/Project1/Admission_Predict.pdf) in Persian.
