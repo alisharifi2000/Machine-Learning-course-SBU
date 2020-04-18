@@ -1,4 +1,4 @@
-### Linear regression on BostonHousePrice dataset & admission dataset
+### Linear Regression on BostonHousePrice dataset & admission dataset
 Use simple classic method regression to perdict out put .
 
 we use 2 dataset 
