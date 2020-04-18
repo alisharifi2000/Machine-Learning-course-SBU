@@ -18,3 +18,7 @@ Samples total  | 162000
 Dimensionality | 5
 Features       | real, positive
 Targets        | real 0. - 1.
+
+My [Code](https://github.com/alisharifi2000/Machine-learning-course-sbu/blob/master/Project2/Project%202.ipynb) in Jupyter NoteBook.
+
+My [Report](https://github.com/alisharifi2000/Machine-learning-course-sbu/blob/master/Project2/classification.pdf) in Persian.
