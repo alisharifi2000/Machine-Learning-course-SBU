@@ -1,4 +1,20 @@
 ### Text Classification on Digikal labeled comments
-we should clean comments in online shopping platfrom and then use classification methods like logistic regression and Naive Bayes .
+Preprocessing Data & Use simple classic method for Classification (Logistic Regression , Naive Bayes).
+we use 1 dataset :
+1. Digikall Customer Comments:
 
-you can find labeled and unlabeled data in [digikala_comment_verification_challenge.zip](https://github.com/alisharifi2000/Machine-learning-course-sbu/blob/master/Project2/digikala_comment_verification_challenge.zip)
+#### 1. Digikall Customer Comments:
+Verified and Unverified Customer Comments for Goods in Online Shopping Platform Digikall.the goal is detect verified comments by its features.
+
+[Digikala Comment Verification Challenge](https://github.com/alisharifi2000/Machine-learning-course-sbu/blob/master/Project2/digikala_comment_verification_challenge.zip)
+
+We need Preprocessing Data like cleaning comments & use methods to change text to vector for Processing Data .
+
+Dataset overview (version 1.1) :
+
+ Name          | Detail
+-------------  | -------------
+Samples total  | 162000
+Dimensionality | 5
+Features       | real, positive
+Targets        | real 0. - 1.
